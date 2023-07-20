@@ -85,12 +85,13 @@
                             <div class="iconfont-wrapper">
                                 <span class=""></span>
                             </div>
-                            <h3 class="mbr-section-title mbr-section-title-2 mb-0 mbr-fonts-style display-2 text-uppercase">Traemos tu negocio&nbsp;</h3>
-                        </div>
-                        <h3 class="mbr-section-title mbr-section-title-3 mb-0 mbr-fonts-style display-2 mt-5 text-uppercase">
-                            al alcance del Internet
-                        </h3>
-
+                            <h3 class="mbr-section-title mbr-section-title-2 mb-0 mbr-fonts-style display-2 text-uppercase d-none d-md-block">
+                                Extendemos tu negocio al alcance del Internet                                 
+                            </h3>
+                            <h3 class="mbr-section-title mbr-section-title-2 mb-0 mbr-fonts-style display-3 text-uppercase d-md-none">
+                                Extendemos tu negocio al alcance del Internet                                 
+                            </h3>
+                        </div>                        
                     </div>
                 </div>
             </div>
