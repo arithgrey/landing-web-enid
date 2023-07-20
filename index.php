@@ -85,7 +85,7 @@
                             <div class="iconfont-wrapper">
                                 <span class=""></span>
                             </div>
-                            <h3 class="mbr-section-title mbr-section-title-2 mb-0 mbr-fonts-style display-2 text-uppercase">Traemos negocio&nbsp;</h3>
+                            <h3 class="mbr-section-title mbr-section-title-2 mb-0 mbr-fonts-style display-2 text-uppercase">Traemos tu negocio&nbsp;</h3>
                         </div>
                         <h3 class="mbr-section-title mbr-section-title-3 mb-0 mbr-fonts-style display-2 mt-5 text-uppercase">
                             al alcance del Internet
@@ -346,15 +346,28 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-12 col-lg-8">
-
                     <h4 class="mbr-section-subtitle mbr-fonts-style display-4">
                         <strong>
                             Anuncia, analiza, crea confianza, mejora y filtra
                         </strong>
                     </h4>
+
                     <p class="mbr-text mbr-fonts-style mb-0 display-7">
                         Haz que tu web, sea tu mejor embudo de ventas y deja de operar a ciegas
                     </p>
+                    <h4 class="mbr-section-subtitle mbr-fonts-style display-4 mt-5">
+                        <strong>
+                           <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+                            Aquí algunos casos de éxito!
+                        </strong>
+                    </h4>
+                    <a href="https://enidservices.com/" target="_blank">
+                        <img src="imgs/enid_service.png" class="w-100 mt-5">
+                    </a>
+                    <a href="https://globos-globolandia.com/" target="_blank">
+                        <img src="imgs/globos_globolandia.png" class="w-100 mt-5">
+                    </a>
+                    
                 </div>
             </div>
         </div>
