@@ -23,6 +23,8 @@
     </noscript>
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
+
 
 
     <!-- Meta Pixel Code-->
@@ -72,9 +74,6 @@
 
     <section data-bs-version="5.1" class="header2 cid-tlJMIKbuHg" id="aheader2-1">
 
-
-
-
         <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);"></div>
         <div class="container">
             <div class="row justify-content-center">
@@ -84,11 +83,11 @@
                         </h3>
                         <div class="title-container">
                             <div class="iconfont-wrapper">
-                                <span class="mbr-iconfont mobi-mbri-cust-feedback mobi-mbri"></span>
+                                <span class=""></span>
                             </div>
-                            <h3 class="mbr-section-title mbr-section-title-2 mb-0 mbr-fonts-style display-1">Traemos tu negocio&nbsp;</h3>
+                            <h3 class="mbr-section-title mbr-section-title-2 mb-0 mbr-fonts-style display-2 text-uppercase">Traemos negocio&nbsp;</h3>
                         </div>
-                        <h3 class="mbr-section-title mbr-section-title-3 mb-0 mbr-fonts-style display-1">
+                        <h3 class="mbr-section-title mbr-section-title-3 mb-0 mbr-fonts-style display-2 mt-5 text-uppercase">
                             al alcance del Internet
                         </h3>
 
@@ -108,15 +107,15 @@
 
         <div class="container">
             <div class="mbr-section-head align-right">
-                <h3 class="mbr-section-title mb-0 mbr-fonts-style display-2">Haz que tu negocio pase ya al siguiente nivel</h3>
+                <h3 class="mbr-section-title mb-0 mbr-fonts-style display-2 text-uppercase">Haz que tu negocio pase ya al siguiente nivel</h3>
             </div>
             <div class="accordion-wrap">
                 <div id="bootstrap-accordion_2" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
                     <div class="card">
                         <div class="card-header" role="tab" id="headingOne">
                             <a role="button" class="panel-title" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse1_2" aria-expanded="true" aria-controls="collapse1">
-                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4">Genera clientes potenciales</h6>
-                                <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4 text-uppercase">Genera clientes potenciales</h6>
+                                <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                             </a>
                         </div>
                         <div id="collapse1_2" class="panel-collapse noScroll collapse show" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_2">
@@ -133,9 +132,9 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingOne">
                             <a role="button" class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse2_2" aria-expanded="false" aria-controls="collapse2">
-                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4">2. Dirige clientes potenciales
+                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4 text-uppercase">2. Dirige clientes potenciales
                                     a tus redes sociales y WhatsaApp</h6>
-                                <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                             </a>
                         </div>
                         <div id="collapse2_2" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_2">
@@ -152,8 +151,8 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingOne">
                             <a role="button" class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse3_2" aria-expanded="false" aria-controls="collapse3">
-                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4">3. Verifica que estés llegando a tu cliente ideal</h6>
-                                <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4 text-uppercase">3. Verifica que estés llegando a tu cliente ideal</h6>
+                                <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                             </a>
                         </div>
                         <div id="collapse3_2" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_2">
@@ -170,8 +169,8 @@
                     <div class="card">
                         <div class="card-header" role="tab" id="headingOne">
                             <a role="button" class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse4_2" aria-expanded="false" aria-controls="collapse4">
-                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4">4. Destaca sobre tu competencia </h6>
-                                <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4 text-uppercase">4. Destaca sobre tu competencia </h6>
+                                <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                             </a>
                         </div>
                         <div id="collapse4_2" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_2">
@@ -261,7 +260,7 @@
                                     <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
                                         Nombre de dominio
                                     </h6>
-                                    <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                                 </a>
                             </div>
                             <div id="collapse1_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
@@ -283,7 +282,7 @@
                                     <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
                                         Diseño responsivo para dispositivos desktop y móviles
                                     </h6>
-                                    <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                                 </a>
                             </div>
                             <div id="collapse2_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
@@ -306,7 +305,7 @@
                                     <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
                                         Conexión y acceso a Google Analytics
                                     </h6>
-                                    <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                                 </a>
                             </div>
                             <div id="collapse3_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
@@ -384,7 +383,7 @@
                                     <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4">
                                         ¿Qué se necesita crear mi landing page?
                                     </h6>
-                                    <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                                 </a>
                             </div>
                             <div id="collapse1_11" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne">
@@ -410,7 +409,7 @@
                                     <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4">
                                         ¿Cuales son sus formas de pago?
                                     </h6>
-                                    <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                                 </a>
                             </div>
                             <div id="collapse2_11" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingTwo">
@@ -430,7 +429,7 @@
                                     <h6 class="panel-title-edit mbr-fonts-style mb-0 display-4">
                                         ¿Se puede pagar a la entrega de mi página web?
                                     </h6>
-                                    <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                                 </a>
                             </div>
                             <div id="collapse3_11" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingThree">
@@ -448,7 +447,7 @@
                                         ¿Se pueden realizar modificaciones a mi web después de ser publicada?
 
                                     </h6>
-                                    <span class="sign mbr-iconfont mobi-mbri-plus"></span>
+                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
                                 </a>
                             </div>
                             <div id="collapse4_11" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingFour">
