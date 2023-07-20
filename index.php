@@ -207,7 +207,7 @@
             <div class="row justify-content-center align-items-end">
                 <div class="col-12 col-lg-7 col-text">
                     <div class="text-wrapper">
-                        <h1 class="mbr-section-title mbr-fonts-style mb-0 display-2">Deja de perder clientes ya!</h1>
+                        <h1 class="mbr-section-title mbr-fonts-style mb-0 display-2 text-uppercase">Deja de perder clientes ya!</h1>
                         <p class="mbr-text mbr-fonts-style mb-0 display-7">
                             Te ayudamos a crear tu landing page optimizada para convertir a tus visitantes en clientes potenciales!
                         </p>
@@ -239,7 +239,7 @@
                     <div class="mbr-section-head w-100">
                         <div class="section-head-container">
 
-                            <h5 class="mbr-section-title mbr-section-title-1 mbr-fonts-style display-2">
+                            <h5 class="text-uppercase mbr-section-title mbr-section-title-1 mbr-fonts-style display-2">
                                 Podemos crear tu web desde $2499
                             </h5>
                         </div>
@@ -370,8 +370,8 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-12 col-lg col-title">
-                    <h5 class="mbr-section-title mbr-fonts-style display-2">
-                        Las cosas que más nos preguntan
+                    <h5 class="mbr-section-title mbr-fonts-style display-2 text-uppercase">
+                        Lo que más nos preguntan
                     </h5>
                 </div>
 
@@ -476,7 +476,7 @@
                         <h1 class="mbr-section-stitle align-right mbr-fonts-style mb-0 display-2 text-uppercase">Pasa tu negocio al siguiente nivel ya!</h1>
 
                         <div class="mbr-section-btn align-right custom-section-btn"><a class="btn btn-primary display-5" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
-                                <div class="btn-transform">Cotiza ya!</div>
+                                <div class="btn-transform">Cotiza ahora!</div>
                             </a></div>
                     </div>
                 </div>
@@ -504,8 +504,13 @@
     <script src="assets/mbr-switch-arrow/mbr-switch-arrow.js"></script>
     <script src="assets/theme/js/script.js"></script>
     <script src="assets/formoid.min.js"></script>
-
-
+    
+    <style>
+        #afeatures3-c{
+            background: #dbeaec!important;
+        }
+    </style>
+    
 
 </body>
 
