@@ -368,6 +368,12 @@
                     <a href="https://globos-globolandia.com/" target="_blank">
                         <img src="imgs/globos_globolandia.png" class="w-100 mt-5">
                     </a>
+                    <a href="https://snowshots.com.mx/" target="_blank">
+                        <img src="imgs/snowshots.png" class="w-100 mt-5">
+                    </a>
+                    <a href="https://carpas-reforzadas.com/" target="_blank">
+                        <img src="imgs/carpas-reforzadas.png" class="w-100 mt-5">
+                    </a>
                     
                 </div>
             </div>
