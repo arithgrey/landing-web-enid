@@ -91,6 +91,11 @@
                             <h3 class="mbr-section-title mbr-section-title-2 mb-0 mbr-fonts-style display-3 text-uppercase d-md-none">
                                 Extendemos tu negocio al alcance del Internet                                 
                             </h3>
+                            <div class="mbr-section-btn align-right custom-section-btn"><a class="btn btn-primary display-5" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
+                                <div class="btn-transform">Cotiza ahora!                                    
+                                </div>
+                            </a>
+                            </div>                            
                         </div>                        
                     </div>
                 </div>
