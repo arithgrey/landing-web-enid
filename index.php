@@ -9,7 +9,7 @@
     <meta name="description" content="Creación de landing pages desde $2499, Pasa tu negocio al siguiente nivel!">
 
 
-    <title>Pasa tu negocio al siguiente nivel! tu langing page desde $2499</title>
+    <title>Pasa tu negocio al siguiente nivel! tu langing page desde $2999 aceptamos pago con tarjeta de crédito</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -246,7 +246,7 @@
                         <div class="section-head-container">
 
                             <h5 class="text-uppercase mbr-section-title mbr-section-title-1 mbr-fonts-style display-2">
-                                Podemos crear tu web desde $2499
+                                Podemos crear tu web desde $2999
                             </h5>
                         </div>
                         <div class="section-head-container section-head-container-2">
