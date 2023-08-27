@@ -9,7 +9,7 @@
     <meta name="description" content="Creación de landing pages desde $2499, Pasa tu negocio al siguiente nivel!">
 
 
-    <title>Pasa tu negocio al siguiente nivel! tu langing page desde $2999 aceptamos pago con tarjeta de crédito</title>
+    <title>Pasa tu negocio al siguiente nivel! tu langing page desde $4499 aceptamos pago con tarjeta de crédito</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -92,10 +92,14 @@
                                 Extendemos tu negocio al alcance del Internet                                 
                             </h3>
                             <div class="mbr-section-btn align-right custom-section-btn"><a class="btn btn-primary display-5" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
-                                <div class="btn-transform">Cotiza ahora!                                    
+                                <div class="btn-transform">
+                                    Cotiza ahora!                                                            
                                 </div>
                             </a>
                             </div>                            
+                            <div class="color_white text_right">
+                                (55) 5296 - 7027
+                            </div>
                         </div>                        
                     </div>
                 </div>
@@ -103,6 +107,117 @@
 
         </div>
     </section>
+    <section data-bs-version="5.1" class="pricing1 orderm5 cid-tlJPmUbfXl" id="apricing1-4">
+
+
+
+
+<div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(0, 0, 0);">
+</div>
+<div class="container">
+    <div class="row justify-content-start">
+        <div class="col-12">
+            <div class="mbr-section-head w-100">
+                <div class="section-head-container">
+
+                    <h5 class="text-uppercase mbr-section-title mbr-section-title-1 mbr-fonts-style display-2">
+                        Podemos crear tu web desde $2999
+                    </h5>
+                </div>
+                <div class="section-head-container section-head-container-2">
+
+                    <h6 class="mbr-section-subtitle mbr-fonts-style display-4">
+                        <br>Visible en menos de 48Hrs, incluyendo:
+                    </h6>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-12 col-lg-8">
+            <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingOne">
+                        <a role="button" class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse1_4" aria-expanded="false" aria-controls="collapse1">
+                            <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
+                                Nombre de dominio
+                            </h6>
+                            <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
+                        </a>
+                    </div>
+                    <div id="collapse1_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
+                        <div class="panel-body">
+                            <p class="mbr-fonts-style panel-text display-7">
+                                El nombre de tu negocio en Internet por ejemplo, www.globos-globolandia.com
+                            </p>
+                            <div class="mbr-section-btn custom-section-btn">
+                                <a class="btn btn-black display-7" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
+                                    <div class="btn-transform">Iniciemos tu proyecto!</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingOne">
+                        <a role="button" class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse2_4" aria-expanded="false" aria-controls="collapse2">
+                            <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
+                                Diseño responsivo para dispositivos desktop y móviles
+                            </h6>
+                            <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
+                        </a>
+                    </div>
+                    <div id="collapse2_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
+                        <div class="panel-body">
+                            <p class="mbr-fonts-style panel-text display-7">
+                                Esto permite que se vea bien en cualquier dispositivo, ya sea una computadora de escritorio, una computadora portátil, una tableta o un teléfono inteligente
+                            </p>
+                            <div class="mbr-section-btn custom-section-btn">
+                                <a class="btn btn-black display-7" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
+                                    <div class="btn-transform">Lo quiero!</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" role="tab" id="headingOne">
+                        <a role="button" class="panel-title collapsed" 
+                        data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse3_4" aria-expanded="false" aria-controls="collapse3">
+                            <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
+                                Conexión y acceso a Google Analytics
+                            </h6>
+                            <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
+                        </a>
+                    </div>
+                    <div id="collapse3_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
+                        <div class="panel-body">
+                            <p class="mbr-fonts-style panel-text display-7">
+                                Estas te ayudarán a entender cómo las personas conectan con tu negocio y te ayudaran a realizar las mejoras continuas para llegar al siguiente nivel
+                            </p>
+                            <div class="mbr-section-btn custom-section-btn">
+                                <a class="btn btn-black display-7" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
+                                    <div class="btn-transform">Cotiza tu web ya!</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="card info-card w-100">
+                <p class="mbr-fonts-style info-text mb-0 display-5">
+                    Asociación de tu web al pixel de Facebook
+                </p>
+                <div class="mbr-section-btn info-section-btn custom-section-btn">
+                    <a class="btn btn-black display-7" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
+                        <div class="btn-transform">Cotiza tu web ya!</div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
 
     <section data-bs-version="5.1" class="list1 orderm5 cid-tlJO4FXRhZ" id="alist1-2">
 
@@ -232,118 +347,7 @@
         </div>
     </section>
 
-    <section data-bs-version="5.1" class="pricing1 orderm5 cid-tlJPmUbfXl" id="apricing1-4">
-
-
-
-
-        <div class="mbr-overlay" style="opacity: 0.7; background-color: rgb(0, 0, 0);">
-        </div>
-        <div class="container">
-            <div class="row justify-content-start">
-                <div class="col-12">
-                    <div class="mbr-section-head w-100">
-                        <div class="section-head-container">
-
-                            <h5 class="text-uppercase mbr-section-title mbr-section-title-1 mbr-fonts-style display-2">
-                                Podemos crear tu web desde $2999
-                            </h5>
-                        </div>
-                        <div class="section-head-container section-head-container-2">
-
-                            <h6 class="mbr-section-subtitle mbr-fonts-style display-4">
-                                <br>Visible en menos de 48Hrs, incluyendo:
-                            </h6>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-12 col-lg-8">
-                    <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion" role="tablist" aria-multiselectable="true">
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingOne">
-                                <a role="button" class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse1_4" aria-expanded="false" aria-controls="collapse1">
-                                    <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
-                                        Nombre de dominio
-                                    </h6>
-                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
-                                </a>
-                            </div>
-                            <div id="collapse1_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
-                                <div class="panel-body">
-                                    <p class="mbr-fonts-style panel-text display-7">
-                                        El nombre de tu negocio en Internet por ejemplo, www.globos-globolandia.com
-                                    </p>
-                                    <div class="mbr-section-btn custom-section-btn">
-                                        <a class="btn btn-black display-7" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
-                                            <div class="btn-transform">Iniciemos tu proyecto!</div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingOne">
-                                <a role="button" class="panel-title collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse2_4" aria-expanded="false" aria-controls="collapse2">
-                                    <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
-                                        Diseño responsivo para dispositivos desktop y móviles
-                                    </h6>
-                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
-                                </a>
-                            </div>
-                            <div id="collapse2_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
-                                <div class="panel-body">
-                                    <p class="mbr-fonts-style panel-text display-7">
-                                        Esto permite que se vea bien en cualquier dispositivo, ya sea una computadora de escritorio, una computadora portátil, una tableta o un teléfono inteligente
-                                    </p>
-                                    <div class="mbr-section-btn custom-section-btn">
-                                        <a class="btn btn-black display-7" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
-                                            <div class="btn-transform">Lo quiero!</div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <div class="card-header" role="tab" id="headingOne">
-                                <a role="button" class="panel-title collapsed" 
-                                data-toggle="collapse" data-bs-toggle="collapse" data-core="" href="#collapse3_4" aria-expanded="false" aria-controls="collapse3">
-                                    <h6 class="panel-title-edit mbr-fonts-style mb-0 display-5">
-                                        Conexión y acceso a Google Analytics
-                                    </h6>
-                                    <span class="sign mbr-iconfont"><span class="fa fa-chevron-down"></span></span>
-                                </a>
-                            </div>
-                            <div id="collapse3_4" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion" data-bs-parent="#bootstrap-accordion_4">
-                                <div class="panel-body">
-                                    <p class="mbr-fonts-style panel-text display-7">
-                                        Estas te ayudarán a entender cómo las personas conectan con tu negocio y te ayudaran a realizar las mejoras continuas para llegar al siguiente nivel
-                                    </p>
-                                    <div class="mbr-section-btn custom-section-btn">
-                                        <a class="btn btn-black display-7" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
-                                            <div class="btn-transform">Cotiza tu web ya!</div>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="card info-card w-100">
-                        <p class="mbr-fonts-style info-text mb-0 display-5">
-                            Asociación de tu web al pixel de Facebook
-                        </p>
-                        <div class="mbr-section-btn info-section-btn custom-section-btn">
-                            <a class="btn btn-black display-7" href="https://api.whatsapp.com/send?phone=+525576127281&text=Hola!%20Me%20puedes%20ayudar,%20me%20gustaría%20tener%20mi%20landing%20page">
-                                <div class="btn-transform">Cotiza tu web ya!</div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
+    
 
 
     <section data-bs-version="5.1" class="article1 orderm5 cid-tlJSjLv9tX" id="aarticle1-a">
@@ -533,6 +537,12 @@
     <style>
         #afeatures3-c{
             background: #dbeaec!important;
+        }
+        .color_white{
+            color: white!important;
+        }.text_right{
+            text-align: right;
+            font-size: 1.5em;
         }
     </style>
     
