@@ -71,7 +71,9 @@
 </head>
 
 <body>
-
+    <div class="escala_negocio d">
+        Escala tu negocio ya, tu web a 12 meses sin intereses
+    </div>    
     <section data-bs-version="5.1" class="header2 cid-tlJMIKbuHg" id="aheader2-1">
 
         <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);"></div>
@@ -543,6 +545,12 @@
         }.text_right{
             text-align: right;
             font-size: 1.5em;
+        }
+        .escala_negocio{
+            background: #000000;
+            color: white;
+            padding: 10px;
+            text-transform: uppercase;
         }
     </style>
     
