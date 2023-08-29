@@ -221,6 +221,48 @@
 </div>
 </section>
 
+
+<section data-bs-version="5.1" class="article1 orderm5 cid-tlJSjLv9tX" id="aarticle1-a">
+
+<div class="second-bg-color"></div>
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-12 col-lg-8">
+            <h4 class="mbr-section-subtitle mbr-fonts-style display-4">
+                <strong>
+                    Anuncia, analiza, crea confianza, mejora y filtra
+                </strong>
+            </h4>
+
+            <p class="mbr-text mbr-fonts-style mb-0 display-7">
+                Haz que tu web, sea tu mejor embudo de ventas y deja de operar a ciegas
+            </p>
+            <h4 class="mbr-section-subtitle mbr-fonts-style display-4 mt-5">
+                <strong>
+                   <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+                    Aquí algunos casos de éxito!
+                </strong>
+            </h4>
+            <a href="https://enidservices.com/" target="_blank">
+                <img src="imgs/enid_service.png" class="w-100 mt-5">
+            </a>
+            <a href="https://globos-globolandia.com/" target="_blank">
+                <img src="imgs/globos_globolandia.png" class="w-100 mt-5">
+            </a>
+            <a href="https://snowshots.com.mx/" target="_blank">
+                <img src="imgs/snowshots.png" class="w-100 mt-5">
+            </a>
+            <a href="https://carpas-reforzadas.com/" target="_blank">
+                <img src="imgs/carpas-reforzadas.png" class="w-100 mt-5">
+            </a>
+            
+        </div>
+    </div>
+</div>
+</section>
+
+
+
     <section data-bs-version="5.1" class="list1 orderm5 cid-tlJO4FXRhZ" id="alist1-2">
 
 
@@ -352,44 +394,6 @@
     
 
 
-    <section data-bs-version="5.1" class="article1 orderm5 cid-tlJSjLv9tX" id="aarticle1-a">
-
-        <div class="second-bg-color"></div>
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-12 col-lg-8">
-                    <h4 class="mbr-section-subtitle mbr-fonts-style display-4">
-                        <strong>
-                            Anuncia, analiza, crea confianza, mejora y filtra
-                        </strong>
-                    </h4>
-
-                    <p class="mbr-text mbr-fonts-style mb-0 display-7">
-                        Haz que tu web, sea tu mejor embudo de ventas y deja de operar a ciegas
-                    </p>
-                    <h4 class="mbr-section-subtitle mbr-fonts-style display-4 mt-5">
-                        <strong>
-                           <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
-                            Aquí algunos casos de éxito!
-                        </strong>
-                    </h4>
-                    <a href="https://enidservices.com/" target="_blank">
-                        <img src="imgs/enid_service.png" class="w-100 mt-5">
-                    </a>
-                    <a href="https://globos-globolandia.com/" target="_blank">
-                        <img src="imgs/globos_globolandia.png" class="w-100 mt-5">
-                    </a>
-                    <a href="https://snowshots.com.mx/" target="_blank">
-                        <img src="imgs/snowshots.png" class="w-100 mt-5">
-                    </a>
-                    <a href="https://carpas-reforzadas.com/" target="_blank">
-                        <img src="imgs/carpas-reforzadas.png" class="w-100 mt-5">
-                    </a>
-                    
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section data-bs-version="5.1" class="list2 orderm5 cid-tlJSmYFMiE" id="alist2-b">
 
