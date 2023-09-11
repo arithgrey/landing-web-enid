@@ -123,7 +123,7 @@
                 <div class="section-head-container">
 
                     <h5 class="text-uppercase mbr-section-title mbr-section-title-1 mbr-fonts-style display-2">
-                        Podemos crear tu web desde $2999
+                        Podemos crear tu web desde $4999
                     </h5>
                 </div>
                 <div class="section-head-container section-head-container-2">
